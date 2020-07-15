@@ -78,6 +78,7 @@ understeerCoefs usteerCoefs[] = {
     { "bmwm8gte",           46.0f, 78.0f  },
     { "bmwz4gt3",           54.0f, 80.0f  },
     { "dallaraf3",          38.0f, 102.0f },
+    { "usf2000usf17",       35.0f, 95.0f },    
     { "ferrari488gt3",      46.0f, 54.0f  },
     { "ferrari488gte",      44.0f, 76.0f  },
     { "formularenault20",   34.5f, 96.0f  },
